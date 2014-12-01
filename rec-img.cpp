@@ -1,5 +1,9 @@
 /*
- * g++ `pkg-config --cflags --libs gtk+-2.0` ts-gtk.cpp -o ts-gtk
+ * rec-img.cpp
+ *
+ * Author: Zex <top_zlynch@yahoo.com>
+ *
+ * g++ `pkg-config --cflags --libs gtk+-2.0` rec-img.cpp -o rec-img
  */
 
 #include <gtk/gtk.h>
